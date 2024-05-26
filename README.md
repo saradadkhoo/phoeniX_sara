@@ -6,11 +6,10 @@ Computer Organization - Spring 2024
 
 ## Assignment 1: Assembly code execution on phoeniX RISC-V core
 
-- Name:Amir Mohammad Emam
+- Name:sara dadkhoo
+- Team Members:amir emam , matin rahmati
 
-- Team Members:Sara Dadkhoo , Matin Rahmati
-
-- Student ID:400411144
+- Student ID:400412058
 
 - Date:1403/03/04
 
